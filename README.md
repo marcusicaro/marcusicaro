@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on an Admin Dashboard
 - 🌱 I’m currently learning JavaScript (will always be)
 - 👯 I’m looking to collaborate on Open-Source projects.
-- 💬 Ask me about Frontend Development.
+- 💬 Ask me about Frontend Development. Or my favorite cartoon character.
 - 📫 How to reach me: https://www.linkedin.com/in/marcus-%C3%ADcaro-118164234/ | https://marcusicaro.com.br/ | marcusicaromc@gmail.com
 
 <!--
