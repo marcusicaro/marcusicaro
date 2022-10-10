@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 - 🔭 I’m currently working on an Admin Dashboard.
 - 🌱 I’m currently learning JavaScript.
