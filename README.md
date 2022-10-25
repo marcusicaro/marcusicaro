@@ -1,9 +1,9 @@
 ### Hi! 👋
 
-- 🔭 I’m currently working on an [Tic Tac Toe](https://github.com/marcusicaro/tic-tac-toe)
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on Open Source projects.
-- 💬 Ask me about Frontend Development. Or my favorite cartoon character.
+- 🔭 I’m currently working on a [Tic Tac Toe](https://github.com/marcusicaro/tic-tac-toe)
+- 📄 Projects: [Tic Tac Toe](https://github.com/marcusicaro/tic-tac-toe) | [Book Library](https://github.com/marcusicaro/book-library) | [Admin Dashboard](https://github.com/marcusicaro/admin-dashboard) | [VR Form](https://github.com/marcusicaro/vrform) | [Calculator](https://github.com/marcusicaro/calculator) | [Etch-a-sketch](https://github.com/marcusicaro/etch-a-sketch) | [Rock, paper, scissors](https://github.com/marcusicaro/rock-paper-scissors)
+- 🌱 Open source projects that I've contributed to: [Odin Project](https://www.theodinproject.com/dashboard)
+- 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: https://marcusicaro.com.br/ | https://www.linkedin.com/in/marcus-%C3%ADcaro-118164234/ | marcusicaromc@gmail.com
 
 <!--
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
