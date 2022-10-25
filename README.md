@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-- 🔭 I’m currently working on an Tic Tac Toe.
+- 🔭 I’m currently working on an (Tic Tac Toe)[https://github.com/marcusicaro/tic-tac-toe]
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about Frontend Development. Or my favorite cartoon character.
