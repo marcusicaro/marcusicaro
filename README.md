@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: E-commerce webpage.
 - 📄 Projects: [Restaurant Page](https://github.com/marcusicaro/burger-burger) | [Tic Tac Toe](https://github.com/marcusicaro/tic-tac-toe) | [Book Library](https://github.com/marcusicaro/book-library) | [Admin Dashboard](https://github.com/marcusicaro/admin-dashboard) | [VR Form](https://github.com/marcusicaro/vrform) | [Calculator](https://github.com/marcusicaro/calculator) | [Etch-a-sketch](https://github.com/marcusicaro/etch-a-sketch) | [Rock, paper, scissors](https://github.com/marcusicaro/rock-paper-scissors)
-- 🌱 Open source projects I'm a contributor: [Odin Project](https://www.theodinproject.com/dashboard)
+- 🌱 Contributing to: [Odin Project](https://www.theodinproject.com/dashboard)
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: https://marcusicaro.com.br/ | https://www.linkedin.com/in/marcus-%C3%ADcaro-118164234/ | marcusicaromc@gmail.com
 
