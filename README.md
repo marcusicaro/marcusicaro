@@ -4,7 +4,7 @@
 - 📄 Projects: [Code-todo](https://github.com/marcusicaro/code-todo) | [Restaurant Page](https://github.com/marcusicaro/burger-burger) | [Tic Tac Toe](https://github.com/marcusicaro/tic-tac-toe) | [Book Library](https://github.com/marcusicaro/book-library) | [Admin Dashboard](https://github.com/marcusicaro/admin-dashboard) | [VR Form](https://github.com/marcusicaro/vrform) | [Calculator](https://github.com/marcusicaro/calculator) | [Etch-a-sketch](https://github.com/marcusicaro/etch-a-sketch) | [Rock, paper, scissors](https://github.com/marcusicaro/rock-paper-scissors)
 - 🌱 Contributions: [Odin Project](https://www.theodinproject.com/dashboard)
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me: [Portfolio](https://marcusicaro.com.br/) | [Linkedin](https://www.linkedin.com/in/marcus-%C3%ADcaro-118164234/) | [E-mail](marcusicaromc@gmail.com)
+- 📫 Contact me: [Portfolio](https://marcusicaro.com.br/) | [Linkedin](https://www.linkedin.com/in/marcus-%C3%ADcaro-118164234/) | [E-mail](marcusicaromc@gmail.com)
 
 <!--
 **marcusicaro/marcusicaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
