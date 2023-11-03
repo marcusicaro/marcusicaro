@@ -3,3 +3,5 @@
 - 🌱 **Open source contributions**: [MDN Web Docs - I](https://github.com/mdn/content/pull/22497) | [MDN Web Docs - II](https://github.com/mdn/content/pull/28334) | [Javascript.info](https://github.com/javascript-tutorial/en.javascript.info/pull/3334#issuecomment-1404104548) | [Odin Project - I](https://github.com/TheOdinProject/curriculum/pull/24763) | [Odin Project - II](https://github.com/TheOdinProject/curriculum/pull/24725) | [Odin Project - III](https://github.com/TheOdinProject/curriculum/pull/24985) | [Odin Project - IV](https://github.com/TheOdinProject/theodinproject/pull/3567) | [Odin Project - V](https://github.com/TheOdinProject/curriculum/pull/25019#issuecomment-1398592144)
 
 - 📫 **Links**: [Portfolio](https://marcusicaro.com.br/) | [Linkedin](https://www.linkedin.com/in/marcus-%C3%ADcaro-118164234/) | [E-mail](mailto:marcusicaromc@gmail.com)
+
+- 📰 **Articles**: [Construindo um sistema de verificação de email de forma fácil usando NodeJS e Resend](https://medium.com/@marcuscaro_51661/construindo-um-sistema-de-verifica%C3%A7%C3%A3o-de-email-de-forma-f%C3%A1cil-usando-nodejs-e-resend-9f94e99a953d)
