@@ -4,6 +4,6 @@
 
 - 📫 **Links**: [Portfolio](https://marcusicaro.com.br/) | [Linkedin](https://www.linkedin.com/in/marcus-%C3%ADcaro-118164234/) | [E-mail](mailto:marcusicaromc@gmail.com)
 
-- 📰 **Articles**: [Construindo um sistema de verificação de email de forma fácil usando NodeJS e Resend](https://medium.com/@marcuscaro_51661/construindo-um-sistema-de-verifica%C3%A7%C3%A3o-de-email-de-forma-f%C3%A1cil-usando-nodejs-e-resend-9f94e99a953d) | [Como adicionar hooks aos commits de seu projeto utilizando Husky](https://dev.to/marcusicaro/como-adicionar-hooks-aos-commits-de-seu-projeto-utilizando-husky-32nh)
+- 📰 **Articles**: [Building a mail verification system easily using NodeJS & Resend](https://medium.com/@marcuscaro_51661/construindo-um-sistema-de-verifica%C3%A7%C3%A3o-de-email-de-forma-f%C3%A1cil-usando-nodejs-e-resend-9f94e99a953d) | [How to add hooks to our commits using Husky](https://dev.to/marcusicaro/como-adicionar-hooks-aos-commits-de-seu-projeto-utilizando-husky-32nh)
 
 - 📦 **Packages**: [responsive-font-size](https://www.npmjs.com/package/responsive-font-sizes?activeTab=readme)
